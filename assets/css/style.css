@@ -182,7 +182,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -2019,7 +2019,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: #006CB0;
+  background-color: #01036f;
   padding: 50px 0;
   color: white;
 }
